@@ -1,0 +1,30 @@
+name: Latest Blog Posts and YouTube Videos
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          # Replace this with your blog's RSS feed (e.g., https://medium.com/feed/@yourusername or https://dev.to/feed/yourusername)
+          feed_list: "https://dev.to/feed/placeholder_username"
+          
+  update-readme-with-youtube:
+    name: Update this repo's README with latest YouTube videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          # Replace this with your YouTube channel's RSS feed or ID (e.g. https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID)
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=PLACEHOLDER_CHANNEL_ID"
