@@ -24,39 +24,38 @@
   <a href="https://www.linkedin.com/in/vipin-chauhan-08a37b421" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:kraaz8997@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<!-- Daily Quote -->
+<a href="https://github.com/marketplace/actions/quotes-readme">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day">
+</a>
 
+<br/><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
 
 ### 👨‍💻 About Me
 
 <div align="center">
-  <i>A passionate <b>Full Stack Developer</b> with <b>8 years of experience</b> crafting high-performance, scalable web and mobile applications. <br/>I thrive on architecting solid backends and bringing designs to life with beautiful, intuitive frontend experiences.</i>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" alt="coding animation" />
+  <p align="left">
+    <i>A passionate <b>Full Stack Developer</b> with <b>8 years of experience</b> crafting high-performance, scalable web and mobile applications. <br/>I thrive on architecting solid backends and bringing designs to life with beautiful, intuitive frontend experiences.</i>
+  </p>
 </div>
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🚀 Currently building amazing digital products and scaling platforms.</td>
-    </tr>
-    <tr>
-      <td align="center">💡 Exploring and learning <b>Python, Go lang, and Rust</b>.</td>
-    </tr>
-    <tr>
-      <td align="center">💬 Ask me about <b>React, Node.js, Next.js, and App Development</b>.</td>
-    </tr>
-    <tr>
-      <td align="center">🤝 Open for collaborations and freelance opportunities.</td>
-    </tr>
-  </table>
+<div align="left">
+  <ul>
+    <li>🚀 Currently building amazing digital products and scaling platforms.</li>
+    <li>💡 Exploring and learning <b>Python, Go lang, and Rust</b>.</li>
+    <li>💬 Ask me about <b>React, Node.js, Next.js, and App Development</b>.</li>
+    <li>🤝 Open for collaborations and freelance opportunities.</li>
+  </ul>
 </div>
 
 <div align="center">
@@ -73,7 +72,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
-
 
 ### 🛠️ Tech Stack & Skills
 
@@ -115,9 +113,8 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <!-- Added cache bypass -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RaazKumar121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RaazKumar121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=2" alt="Trophies" />
   </a>
 </p>
 
@@ -128,14 +125,13 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <!-- Added cache bypass query params to force refresh -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RaazKumar121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaazKumar121&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaazKumar121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaazKumar121&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaazKumar121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaazKumar121&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=1" alt="Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaazKumar121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaazKumar121&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=2" alt="Activity Graph" width="48%" />
 </div>
 
 <div align="center">
