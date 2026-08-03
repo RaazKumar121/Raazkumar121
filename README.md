@@ -11,7 +11,7 @@
 
 <!-- Typing Animation -->
 <a href="https://vipdev.in/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+%26+Mobile+Applications;8+Years+of+Full+Stack+Development;Exploring+Python,+Go+lang,+and+Rust;Turning+Ideas+into+Beautiful+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+%26+Mobile+Applications;8+Years+of+Full+Stack+Development;Exploring+Python,+Go+lang,+and+Rust;Turning+Ideas+into+Beautiful+Products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,183 +19,155 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://vipdev.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=Web&logoColor=00F0FF" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/vipin-chauhan-08a37b421?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- Update these links with your actual handles if you have them! -->
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/vipin-chauhan-08a37b421" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
   </a>
 </p>
 
-</div>
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
----
+</div>
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** with **8 years of experience** crafting high-performance, scalable web and mobile applications. I thrive on architecting solid backends and bringing designs to life with beautiful, intuitive frontend experiences. 
+<div align="center">
+  <i>A passionate <b>Full Stack Developer</b> with <b>8 years of experience</b> crafting high-performance, scalable web and mobile applications. <br/>I thrive on architecting solid backends and bringing designs to life with beautiful, intuitive frontend experiences.</i>
+</div>
 
-- 🚀 Currently building amazing digital products and scaling platforms.
-- 💡 Exploring and learning **Python, Go lang, and Rust**.
-- 💬 Ask me about **React, Node.js, Next.js, and App Development**.
-- 📫 Reach out to me on my [LinkedIn](https://www.linkedin.com/in/vipin-chauhan-08a37b421?utm_source=share_via&utm_content=profile&utm_medium=member_android) or through my [Portfolio](https://vipdev.in/).
+<br/>
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🚀 Currently building amazing digital products and scaling platforms.</td>
+    </tr>
+    <tr>
+      <td align="center">💡 Exploring and learning <b>Python, Go lang, and Rust</b>.</td>
+    </tr>
+    <tr>
+      <td align="center">💬 Ask me about <b>React, Node.js, Next.js, and App Development</b>.</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
 
 ### 🛠️ Tech Stack & Skills
 
-<details>
-<summary><b>Frontend Development</b> (Click to expand)</summary>
+<details open>
+<summary><b>🔥 Frontend Development</b> (Click to toggle)</summary>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,js,ts,tailwind,bootstrap,wordpress,firebase&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,js,ts,tailwind,bootstrap,wordpress,firebase&perline=12&theme=dark" />
   </a>
 </p>
 <p align="center"><i>(Includes React Native, Expo, and Flutter for Mobile Development)</i></p>
 </details>
 
 <details open>
-<summary><b>Backend & Databases</b> (Click to expand)</summary>
+<summary><b>⚙️ Backend & Databases</b> (Click to toggle)</summary>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,mongodb,mysql,postgres&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,mongodb,mysql,postgres&perline=12&theme=dark" />
   </a>
 </p>
 <p align="center"><i>(Also skilled in CodeIgniter, Socket.io, and WebRTC)</i></p>
 </details>
 
-<details>
-<summary><b>Tools & Platforms</b> (Click to expand)</summary>
+<details open>
+<summary><b>🚀 Tools & Platforms</b> (Click to toggle)</summary>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,aws&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,aws&perline=12&theme=dark" />
   </a>
 </p>
 </details>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Raazkumar121&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RaazKumar121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
 
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raazkumar121&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raazkumar121&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaazKumar121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaazKumar121&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raazkumar121&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raazkumar121&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaazKumar121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaazKumar121&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="48%" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
 
 ### 🐍 Contribution Grid Snake
 
-> The snake automatically eats my contributions on the grid and grows!
+> Watch the snake eat my contributions! *(Updates automatically via GitHub Actions)*
 <div align="center">
-  <!-- This image will be generated by the GitHub Actions Workflow (snake.yml) -->
-  <!-- You must run the workflow at least once for this image to appear! -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="dist/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-snake.svg" width="100%">
   </picture>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
 
 ### 🧊 3D Contribution Calendar
 
-> Explore my open-source commits in 3D!
+> Explore my open-source commits in 3D! *(Updates automatically via GitHub Actions)*
 <div align="center">
-  <!-- Generated by profile-3d-contrib.yml GitHub Action -->
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
 
-### ⚙️ Integrations & More (Setup Required)
+<!-- 
+NOTE: LeetCode, Codeforces, WakaTime, and Spotify integrations are hidden because you need to provide your usernames for those services before the images will load correctly. 
+Once you have the usernames, you can uncomment the HTML below and replace YOUR_USERNAME!
+-->
 
-> **Hey Vipin!** To activate these widgets, replace `YOUR_USERNAME` with your actual usernames on those platforms. 
-
-<details>
-<summary><b>LeetCode & Codeforces</b></summary>
-<br/>
+<!--
+### ⚙️ Extra Integrations
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
   <br/><br/>
-  <!-- Replace YOUR_CODEFORCES_USERNAME -->
-  <img src="https://github-readme-stats.vercel.app/api/codeforces?username=YOUR_CODEFORCES_USERNAME&theme=radical" alt="Codeforces Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/codeforces?username=YOUR_CODEFORCES_USERNAME&theme=tokyonight" alt="Codeforces Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakatime.com&username=YOUR_WAKATIME_USERNAME&theme=tokyonight" alt="WakaTime" />
 </div>
-
-</details>
-
-<details>
-<summary><b>WakaTime Coding Activity</b></summary>
-<br/>
-
-<div align="center">
-  <!-- You need to add a WakaTime card generator or use github-readme-stats wakatime integration (requires setting up a Vercel instance with your WakaTime API Key) -->
-  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakatime.com&username=YOUR_WAKATIME_USERNAME&theme=radical" alt="WakaTime" />
-  </a>
-</div>
-
-</details>
-
-
-<details>
-<summary><b>Spotify Now Playing</b></summary>
-<br/>
-
-<div align="center">
-  <!-- Setup novatorem/novatorem or use metrics API to display what you're listening to -->
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
-  </a>
-</div>
-
-</details>
-
-
-<details>
-<summary><b>Latest Blog Posts & YouTube Videos</b></summary>
-<br/>
-
-<!-- These tags are used by the blog-post-workflow Action to inject links -->
-#### 📝 Recent Blogs
-<!-- BLOG-POST-LIST:START -->
-*Configure the blog-post-workflow in `.github/workflows` to show your posts!*
-<!-- BLOG-POST-LIST:END -->
-
-#### 🎥 Recent Videos
-<!-- YOUTUBE:START -->
-*Configure the youtube workflow in `.github/workflows` to show your videos!*
-<!-- YOUTUBE:END -->
-
-</details>
-
----
+-->
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
-  <img src="https://profile-counter.glitch.me/Raazkumar121/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=RaazKumar121&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Visitor Count" />
   <br/>
   <br/>
   <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
