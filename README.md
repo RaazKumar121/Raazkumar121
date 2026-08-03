@@ -114,7 +114,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RaazKumar121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=2" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RaazKumar121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=3" alt="Trophies" />
   </a>
 </p>
 
@@ -125,13 +125,13 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaazKumar121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaazKumar121&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaazKumar121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaazKumar121&theme=tokyonight&hide_border=true&background=0D1117&v=3" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaazKumar121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaazKumar121&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=2" alt="Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaazKumar121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaazKumar121&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=3" alt="Activity Graph" width="48%" />
 </div>
 
 <div align="center">
@@ -143,9 +143,9 @@
 > Watch the snake eat my contributions! *(Updates automatically via GitHub Actions)*
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaazKumar121/Raazkumar121/output/dist/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
