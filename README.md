@@ -24,6 +24,9 @@
   <a href="https://www.linkedin.com/in/vipin-chauhan-08a37b421" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
   </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
+  </a>
 </p>
 
 <!-- Animated Divider -->
@@ -50,12 +53,27 @@
     <tr>
       <td align="center">💬 Ask me about <b>React, Node.js, Next.js, and App Development</b>.</td>
     </tr>
+    <tr>
+      <td align="center">🤝 Open for collaborations and freelance opportunities.</td>
+    </tr>
   </table>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
+
+### 🚀 What I Do (Services)
+
+- 💻 **Web Development**: Next.js, React.js, Vue, Angular
+- 📱 **Mobile App Development**: React Native, Flutter
+- ⚙️ **Backend API & Architecture**: Node.js, Nest.js, PHP, Laravel
+- 🗄️ **Database Management**: MongoDB, MySQL, Postgres
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
+
 
 ### 🛠️ Tech Stack & Skills
 
@@ -97,8 +115,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
+  <!-- Added cache bypass -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RaazKumar121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RaazKumar121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
   </a>
 </p>
 
@@ -109,13 +128,14 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaazKumar121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaazKumar121&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <!-- Added cache bypass query params to force refresh -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RaazKumar121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaazKumar121&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaazKumar121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaazKumar121&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaazKumar121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaazKumar121&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=1" alt="Activity Graph" width="48%" />
 </div>
 
 <div align="center">
@@ -147,23 +167,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 </div>
-
-<!-- 
-NOTE: LeetCode, Codeforces, WakaTime, and Spotify integrations are hidden because you need to provide your usernames for those services before the images will load correctly. 
-Once you have the usernames, you can uncomment the HTML below and replace YOUR_USERNAME!
--->
-
-<!--
-### ⚙️ Extra Integrations
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/codeforces?username=YOUR_CODEFORCES_USERNAME&theme=tokyonight" alt="Codeforces Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakatime.com&username=YOUR_WAKATIME_USERNAME&theme=tokyonight" alt="WakaTime" />
-</div>
--->
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
